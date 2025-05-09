@@ -1,0 +1,173 @@
+@import "../../vars.css";
+
+.navbar {
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(45px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    z-index: 2;
+    margin: 0 5%;
+}
+
+.menuBtn {
+    display: none;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    filter: invert(100%);
+}
+
+.menuBtn img {
+    height: 30px;
+    width: 30px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menuItems {
+    display: flex;
+    gap: 47px;
+    list-style: none;
+}
+
+.menuItems a {
+    font-size: 25px;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.menuItems a:hover {
+    color: var(--color-tertiary);
+}
+
+/* Language Selector */
+.languageDropdown {
+    position: relative;
+}
+
+.dropdownToggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 22px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.dropdownToggle img {
+    width: 28px;
+    height: 28px;
+}
+
+.dropdownMenu {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    padding: 8px 0;
+    min-width: 120px;
+    z-index: 10;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.langBtn {
+    width: 100%;
+    padding: 8px 16px;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--color-text);
+}
+
+.langBtn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.active {
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* Mobile Styles */
+@media (max-width: 830px) {
+    .navbar {
+        flex-direction: row;
+        align-items: center;
+        padding-top: 40px;
+        padding: 20px;
+        gap: 12px;
+    }
+
+.title{
+    font-size: 20px;
+}
+
+    .menu {
+        position: static;
+        width: 100%;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 28px;
+    }
+
+    .menuBtn {
+        display: block;
+        outline: none;
+        background: none;
+        border: none;
+    }
+
+    .menuItems {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+        gap: 16px;
+        padding: 24px 33px;
+        background: linear-gradient(20deg,
+                rgba(25, 55, 109, 0.9) 0%,
+                rgba(25, 55, 109, 1) 100%);
+        box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+    }
+
+    .menuOpen {
+        display: flex;
+    }
+
+    .dropdownMenu {
+        left: 50%;
+        transform: translateX(-50%);
+        top: calc(100% + 8px);
+        min-width: 140px;
+    }
+
+    .languageDropdown {
+        margin-top: 4px;
+        margin-left: 8px;
+    }
+}

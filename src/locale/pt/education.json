@@ -1,0 +1,21 @@
+{
+  "title": "Formação Acadêmica",
+  "items": [
+    {
+      "role": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "organisation": "SENAC SP",
+      "startDate": "Fev, 2024",
+      "endDate": "Presente",
+      "description": "Curso superior com foco prático em desenvolvimento de software.\nPrincipais aprendizados:\n- Lógica e algoritmos\n- Programação orientada a objetos\n- Engenharia de software\n- Estrutura de dados e bancos relacionais\n- Processos de desenvolvimento (cascata, iterativo, ágil)",
+      "imageSrc": "education/senac.png"
+    },
+    {
+      "role": "Técnico em Desenvolvimento de Sistemas",
+      "organisation": "ETEC - Albert Einstein",
+      "startDate": "Fev, 2022",
+      "endDate": "Jun, 2023",
+      "description": "Curso técnico voltado para fundamentos da programação e infraestrutura.\nPrincipais aprendizados:\n- Front-end (HTML, CSS, JS)\n- Back-end com C# e PHP\n- Aplicações web/mobile com Angular e Ionic\n- Bancos de dados SQL e NoSQL\n- Arduino, redes e metodologias ágeis (Scrum)",
+      "imageSrc": "education/etec.svg"
+    }
+  ]
+}

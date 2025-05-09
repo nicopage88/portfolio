@@ -1,0 +1,21 @@
+{
+  "title": "Sobre Nicolabs",
+  "items": [
+    {
+      "title": "Engenheiro de Computação",
+      "description": "Olá, sou Nicolás González. Convido você a conhecer meu trabalho na área de informática."
+    },
+    {
+      "title": "Desenvolvimento Fullstack",
+      "description": "Ao longo da minha trajetória, desenvolvi sistemas web em diversas linguagens como PHP, JavaScript, Python, utilizando frameworks como Angular, React Native, Laravel, entre outros."
+    },
+    {
+      "title": "Suporte TI e Infraestrutura",
+      "description": "Experiência em Suporte TI, Desenvolvimento e Infraestrutura de dados, oferecendo soluções tecnológicas completas."
+    },
+    {
+      "title": "Projetos",
+      "description": "Você pode conferir meus projetos em várias linguagens de programação. Obrigado por visitar meu site!"
+    }
+  ]
+}
