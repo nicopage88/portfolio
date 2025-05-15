@@ -1,21 +1,32 @@
 {
-  "title": "Education",
+  "title": "Academic Background",
   "items": [
     {
-      "role": "Technologist in Systems Analysis and Development",
-      "organisation": "SENAC SP",
-      "startDate": "Feb, 2024",
-      "endDate": "Present",
-      "description": "Higher education focused on practical software development.\nKey topics:\n- Logic and algorithms\n- Object-oriented programming\n- Software engineering\n- Data structures and relational databases\n- Software development processes (waterfall, iterative, agile)",
-      "imageSrc": "education/senac.png"
+      "role": "Computer Engineering",
+      "organisation": "San Sebastián University (formerly CIISA)",
+      "startDate": "March 2017",
+      "endDate": "April 2021",
+      "description": "Degree certificate in Computer Engineering.",
+      "imageSrc": "education/logo_estudio.png",
+      "url": "https://nicolabs.cl/cv/certificado_ing.pdf"
     },
     {
-      "role": "Technical Degree in Systems Development",
-      "organisation": "ETEC - Albert Einstein",
-      "startDate": "Feb, 2022",
-      "endDate": "Jun, 2023",
-      "description": "Technical course focused on programming fundamentals and infrastructure.\nKey topics:\n- Front-end (HTML, CSS, JS)\n- Back-end with C# and PHP\n- Web/mobile apps with Angular and Ionic\n- SQL and NoSQL databases\n- Arduino, networks, and agile methodologies (Scrum)",
-      "imageSrc": "education/etec.svg"
+      "role": "Graphic Media Management and Administration",
+      "organisation": "INGRAF",
+      "startDate": "February 2010",
+      "endDate": "December 2013",
+      "description": "Technical training in graphic processes, editing, and production of print and digital media.",
+      "imageSrc": "education/ingraf.png",
+      "url": "#"
+    },
+    {
+      "role": "Intermediate English Certificate",
+      "organisation": "Koe",
+      "startDate": "January 2015",
+      "endDate": "December 2015",
+      "description": "Intermediate level English certification with a communicative approach.",
+      "imageSrc": "education/koe.png",
+      "url": "https://nicolabs.cl/cv/Diploma KOE.jpg"
     }
   ]
 }

@@ -1,21 +1,32 @@
 {
-    "title": "Formación Académica",
-    "items": [
-      {
-        "role": "Tecnólogo en Análisis y Desarrollo de Sistemas",
-        "organisation": "SENAC SP",
-        "startDate": "Feb, 2024",
-        "endDate": "Presente",
-        "description": "Formación superior centrada en el desarrollo práctico de software.\nTemas clave:\n- Lógica y algoritmos\n- Programación orientada a objetos\n- Ingeniería de software\n- Estructuras de datos y bases de datos relacionales\n- Procesos de desarrollo de software (cascada, iterativo, ágil)",
-        "imageSrc": "education/senac.png"
-      },
-      {
-        "role": "Técnico en Desarrollo de Sistemas",
-        "organisation": "ETEC - Albert Einstein",
-        "startDate": "Feb, 2022",
-        "endDate": "Jun, 2023",
-        "description": "Curso técnico enfocado en fundamentos de programación e infraestructura.\nTemas clave:\n- Front-end (HTML, CSS, JS)\n- Back-end con C# y PHP\n- Aplicaciones web/móviles con Angular e Ionic\n- Bases de datos SQL y NoSQL\n- Arduino, redes y metodologías ágiles (Scrum)",
-        "imageSrc": "education/etec.svg"
-      }
-    ]
-  }
+  "title": "Formación Académica",
+  "items": [
+    {
+      "role": "Ingeniería en Informática",
+      "organisation": " Universidad San Sebastián (Ex CIISA)",
+      "startDate": "Marzo de 2017",
+      "endDate": "Abril de 2021",
+      "description": "Certificado de titulación en Ingeniería en Informática.",
+      "imageSrc": "education/logo_estudio.png",
+      "url": "https://nicolabs.cl/cv/certificado_ing.pdf"
+    },
+    {
+      "role": "Gestión y Administración de medios Gráficos",
+      "organisation": "INGRAF",
+      "startDate": "Febrero de 2010",
+      "endDate": "Diciembre de 2013",
+      "description": "Formación técnica en procesos gráficos, edición y producción de medios impresos y digitales.",
+      "imageSrc": "education/ingraf.png",
+      "url": "#"
+    },
+    {
+      "role": "Certificado de Inglés Intermedio",
+      "organisation": "Koe",
+      "startDate": "Enero de 2015",
+      "endDate": "Diciembre de 2015",
+      "description": "Certificación en nivel intermedio de inglés con enfoque comunicacional.",
+      "imageSrc": "education/koe.png",
+      "url": "https://nicolabs.cl/cv/Diploma KOE.jpg"
+    }
+  ]
+}

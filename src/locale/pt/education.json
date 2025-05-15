@@ -2,20 +2,31 @@
   "title": "Formação Acadêmica",
   "items": [
     {
-      "role": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
-      "organisation": "SENAC SP",
-      "startDate": "Fev, 2024",
-      "endDate": "Presente",
-      "description": "Curso superior com foco prático em desenvolvimento de software.\nPrincipais aprendizados:\n- Lógica e algoritmos\n- Programação orientada a objetos\n- Engenharia de software\n- Estrutura de dados e bancos relacionais\n- Processos de desenvolvimento (cascata, iterativo, ágil)",
-      "imageSrc": "education/senac.png"
+      "role": "Bacharelado em Engenharia da Computação",
+      "organisation": "Universidad San Sebastián (Ex CIISA)",
+      "startDate": "Março 2017",
+      "endDate": "Abril 2021",
+      "description": "Diploma em Engenharia da Computação com formação em desenvolvimento de software, arquitetura de sistemas e tecnologias da informação.",
+      "imageSrc": "education/logo_estudio.png",
+      "url": "https://nicolabs.cl/cv/certificado_ing.pdf"
     },
     {
-      "role": "Técnico em Desenvolvimento de Sistemas",
-      "organisation": "ETEC - Albert Einstein",
-      "startDate": "Fev, 2022",
-      "endDate": "Jun, 2023",
-      "description": "Curso técnico voltado para fundamentos da programação e infraestrutura.\nPrincipais aprendizados:\n- Front-end (HTML, CSS, JS)\n- Back-end com C# e PHP\n- Aplicações web/mobile com Angular e Ionic\n- Bancos de dados SQL e NoSQL\n- Arduino, redes e metodologias ágeis (Scrum)",
-      "imageSrc": "education/etec.svg"
+      "role": "Gestão e Administração de Mídias Gráficas",
+      "organisation": "INGRAF",
+      "startDate": "Fevereiro 2010",
+      "endDate": "Dezembro 2013",
+      "description": "Formação técnica em processos gráficos, editoração eletrônica e produção de mídias impressas e digitais.",
+      "imageSrc": "education/ingraf.png",
+      "url": "#"
+    },
+    {
+      "role": "Certificação de Inglês Intermediário",
+      "organisation": "KOE",
+      "startDate": "Janeiro 2015",
+      "endDate": "Dezembro 2015",
+      "description": "Certificação de proficiência em inglês (nível B2) com ênfase em comunicação técnica e profissional.",
+      "imageSrc": "education/koe.png",
+      "url": "https://nicolabs.cl/cv/Diploma KOE.jpg"
     }
   ]
 }

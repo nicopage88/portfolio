@@ -1,7 +1,7 @@
 {
-    "title": "Olá, eu sou o Felipe",
-    "description1": "Sou um desenvolvedor fullstack com experiência acadêmica e projetos pessoais em backend, frontend e design de interfaces.",
-    "description2": "Gosto de entender como as coisas funcionam de ponta a ponta e busco construir soluções funcionais, bem estruturadas e fáceis de usar.",
-    "description3": "Entre em contato se quiser saber mais!",
-    "curriculumBtn": "Currículo"
+  "title": "Olá, sou o Nicolás",
+  "description1": "Desenvolvedor fullstack com mais de 7 anos de experiência em diversas áreas de TI, incluindo projetos acadêmicos, pessoais e profissionais em backend, frontend e design de interfaces.",
+  "description2": "Especializo-me em construir soluções tecnológicas bem estruturadas, funcionais e fáceis de usar. Lidero projetos aplicando metodologias ágeis como Scrum, integrando ferramentas de produtividade, comunicações e serviços em nuvem.",
+  "description3": "Entre em contato se quiser saber mais ou colaborar em um novo projeto!",
+  "curriculumBtn": "Currículo"
 }

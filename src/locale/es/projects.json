@@ -1,99 +1,73 @@
 {
-    "ui": {
-        "sectionTitle": "Proyectos"
+  "ui": {
+    "sectionTitle": "Proyectos"
+  },
+  "items": [
+    {
+      "sectionTitle": "Mis Proyectos",
+      "title": "DelyApp 2021",
+      "imageSrc": "projects/delyapp.png",
+      "description": "Software de compra, venta e inventario para local de comida rápida, con manipulación de ingredientes, mermas y gastos fijos. Incluye venta online/presencial, cálculo de precio sugerido y despacho a domicilio.",
+      "skills": ["PHP", "MySQL", "JavaScript"],
+      "source": "https://github.com/nicopage88/delyapp"
     },
-    "items": [
-        {
-            "sectionTitle": "Mis Proyectos",
-            "title": "Vivlio",
-            "imageSrc": "projects/vivlio.png",
-            "description": "Desarrollé el back-end de Vívlio, un proyecto de TCC en grupo con 5 integrantes - plataforma de libros de dominio público con favoritos y lector integrado.",
-            "skills": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "PHP",
-                "MySQL",
-                "Firebase"
-            ],
-            "demo":"http://vivlio.infinityfreeapp.com/",
-            "team": [
-                {
-                    "id": 0,
-                    "name": "Felipe C Ribeiro",
-                    "link": "https://www.linkedin.com/in/felipe-correia-ribeiro/"
-                },
-                {
-                    "id": 1,
-                    "name": "Bruno Bezerra",
-                    "link": "https://www.linkedin.com/in/brunobsilva25/"
-                },
-                {
-                    "id": 2,
-                    "name": "Guilherme de Paula",
-                    "link": "https://www.linkedin.com/in/lick007/"
-                },
-                {
-                    "id": 3,
-                    "name": "João Pedro",
-                    "link": "https://www.instagram.com/joaopedroodrs/"
-                },
-                {
-                    "id": 4,
-                    "name": "Evelyn Silva",
-                    "link": "https://www.linkedin.com/in/evelynbeatriz13/"
-                },
-                {
-                    "id": 5,
-                    "name": "Geovanna Abade",
-                    "link": "https://www.linkedin.com/in/geovanna-abade-45ba00236/"
-                }
-            ]
-        },
-        {
-            "title": "API Spring Boot",
-            "imageSrc": "projects/api-spring-boot.png",
-            "description": "API RESTful para gestión de productos con autenticación JWT, validaciones y documentación vía Swagger.",
-            "skills": [
-                "Java",
-                "Spring Boot"
-            ],
-            "demo": "https://github.com/FelipeRibeir0/ApiSpringBoot/blob/main/README.md",
-            "source": "https://github.com/FelipeRibeir0/ApiSpringBoot"
-        },
-        {
-            "title": "App de Clima",
-            "imageSrc": "projects/weather-app.png",
-            "description": "Aplicación de pronóstico del tiempo utilizando JavaScript y API OpenWeather.",
-            "skills": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "demo": "https://feliperibeir0.github.io/Weather-App/",
-            "source": "https://github.com/FelipeRibeir0/Weather-App"
-        },
-        {
-            "title": "Lista de Tareas",
-            "imageSrc": "projects/todo-list.png",
-            "description": "Aplicación de lista de tareas desarrollado con HTML, CSS y JavaScript.",
-            "skills": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "demo": "https://feliperibeir0.github.io/Todo-List/",
-            "source": "https://github.com/FelipeRibeir0/Todo-List"
-        },
-        {
-            "title": "Próximo Proyecto",
-            "imageSrc": "projects/work-progress-light2.png",
-            "description": "En desarrollo - ¡novedades próximamente!",
-            "skills": [
-                "Próximamente"
-            ],
-            "source": "https://github.com/FelipeRibeir0",
-            "overview": true
-        }
-    ]
+    {
+      "title": "Pokédex React",
+      "imageSrc": "projects/poke-api.png",
+      "description": "Pokédex desarrollada con React.js y TypeScript usando la API pública pokeapi.co. Incluye navegación con Router DOM y hooks de React como useState y useEffect.",
+      "skills": ["React", "TypeScript", "API REST"],
+      "demo": "https://pokedex-api-react-v1-15d2b8.netlify.app/"
+    },
+    {
+      "title": "San Gregorio App",
+      "imageSrc": "projects/sgdls.png",
+      "description": "Software para el colegio San Gregorio De La Salle lanzado en 2021, abarca soporte técnico, gestión de inventario tecnológico y módulos escolares.",
+      "skills": ["PHP", "Laravel", "JavaScript"],
+      "demo": "https://sgdls.cl/"
+    },
+    {
+      "title": "Movie BD Angular",
+      "imageSrc": "projects/tmdb.png",
+      "description": "App para buscar películas usando Angular v10 y la API pública TheMovieDB. Proyecto final para curso del máster en JavaScript.",
+      "skills": ["Angular", "TypeScript", "API REST"],
+      "demo": "https://apipelis-con-angular-3820dc.netlify.app/"
+    },
+    {
+      "title": "Próximo Feriado",
+      "imageSrc": "projects/feriados.png",
+      "description": "App en React que consume una API interna JSON para mostrar el feriado más cercano en Chile, con cuenta regresiva, motivo y tipo.",
+      "skills": ["React", "JavaScript", "JSON"],
+      "demo": "https://feriados-chile-216907.netlify.app/"
+    },
+    {
+      "title": "Dragon Ball API",
+      "imageSrc": "projects/dbz-api.png",
+      "description": "App educativa desarrollada con React y Vite para mostrar personajes de Dragon Ball. Parte de la malla de pensamiento computacional.",
+      "skills": ["React", "Vite", "API"],
+      "demo": "https://taller.sgdls.cl/api-dbz/"
+    },
+    {
+      "title": "Tabla Periódica App",
+      "imageSrc": "projects/tabla-periodica.png",
+      "description": "Herramienta interactiva con React y Vite que enseña los elementos de la tabla periódica. Implementado en talleres escolares.",
+      "skills": ["React", "Vite", "Educación"],
+      "demo": "https://taller.sgdls.cl/api-tabla-periodica/"
+    },
+    {
+      "title": "Gestor de Tareas",
+      "imageSrc": "projects/tareas-sgdls.png",
+      "description": "Aplicación web para la gestión de tareas con PHP, MySQL, JavaScript y FullCalendar. Permite la creación, edición y eliminación de tareas con persistencia de datos.",
+      "skills": ["PHP", "MySQL", "JavaScript", "FullCalendar.js"],
+      "demo": "https://tareas.sgdls.cl/",
+      "source": null
+    },
+    {
+      "title": "Versión Antigua de Nicolabs",
+      "imageSrc": "projects/old-nicolabs.png",
+      "description": "Sitio web anterior de Nicolabs desarrollado con Angular. Presenta información institucional, proyectos y contacto.",
+      "skills": ["Angular", "TypeScript", "HTML", "CSS"],
+      "demo": "https://old.nicolabs.cl/",
+      "source": null
+    }
+  ]
 }

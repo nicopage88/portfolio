@@ -3,19 +3,15 @@
   "items": [
     {
       "title": "Computer Engineer",
-      "description": "Hi, I'm Nicolás González. I invite you to explore my work in the field of computer science."
+      "description": "Hello, I'm Nicolás González. I invite you to explore my professional work in computer engineering and software development."
     },
     {
       "title": "Fullstack Development",
-      "description": "Throughout my career, I've developed web systems using various languages like PHP, JavaScript, Python, and frameworks such as Angular, React Native, Laravel, and more."
+      "description": "Throughout my career I've developed web systems using multiple programming languages including PHP, JavaScript, and Python, leveraging frameworks such as Angular, React Native, Laravel, among others."
     },
     {
-      "title": "IT Support & Infrastructure",
-      "description": "Experience in IT Support, Development, and Data Infrastructure, providing comprehensive technological solutions."
-    },
-    {
-      "title": "Projects",
-      "description": "You can check out my projects in various programming languages. Thank you for visiting my website!"
+      "title": "IT Support and Infrastructure",
+      "description": "Extensive experience in IT Support, Development, and Data Infrastructure, providing comprehensive technological solutions."
     }
   ]
 }

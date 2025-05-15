@@ -1,21 +1,17 @@
 {
-  "title": "Sobre Nicolabs",
+  "title": "Sobre a Nicolabs",
   "items": [
     {
-      "title": "Ingeniero en Informática",
-      "description": "Hola, Soy Nicolás González. Le invito a conocer lo que hago en relación a la informática."
+      "title": "Engenheiro de Computação",
+      "description": "Olá, sou Nicolás González. Convidamos você a conhecer meu trabalho na área de tecnologia da informação."
     },
     {
-      "title": "Desarrollo Fullstack",
-      "description": "Durante mi trayectoria he desarrollado sistemas web en diversos lenguajes como PHP, JavaScript, Python, usando frameworks como Angular, React Native, Laravel y otros."
+      "title": "Desenvolvimento Fullstack",
+      "description": "Ao longo de minha carreira, desenvolvi sistemas web utilizando diversas linguagens como PHP, JavaScript e Python, com frameworks como Angular, React Native, Laravel entre outros."
     },
     {
-      "title": "Soporte TI e Infraestructura",
-      "description": "Experiencia en Soporte TI, Desarrollo e Infraestructura de datos, brindando soluciones tecnológicas integrales."
-    },
-    {
-      "title": "Proyectos",
-      "description": "Puedes ver mis proyectos en diversos lenguajes de programación. ¡Gracias por visitar mi página web!"
+      "title": "Suporte TI e Infraestrutura",
+      "description": "Experiência em Suporte de TI, Desenvolvimento e Infraestrutura de dados, oferecendo soluções tecnológicas completas."
     }
   ]
 }
