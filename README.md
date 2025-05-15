@@ -1,57 +1,61 @@
-# Portfólio Pessoal
 
-Bem-vindo ao meu portfólio pessoal, desenvolvido com **React**, utilizando o **Vite** para um ambiente de desenvolvimento rápido e eficiente. Este projeto apresenta minhas habilidades, projetos e experiências na área de desenvolvimento web.
-Sou desenvolvedor focado em back-end, apaixonado por tecnologia e sempre buscando novos desafios. Este portfólio foi criado para reunir minha trajetória, habilidades e projetos em um só lugar.
+# Portafolio Personal
 
-## 🚀 Tecnologias Utilizadas
+¡Bienvenido a mi portafolio personal! Desarrollado con React y utilizando Vite para un entorno de desarrollo rápido y eficiente. Este proyecto muestra mis habilidades, proyectos y experiencias en el área del desarrollo web. Soy un desarrollador enfocado en el backend, apasionado por la tecnología y siempre en busca de nuevos desafíos. Este portafolio fue creado para reunir mi trayectoria, habilidades y proyectos en un solo lugar.
 
-- **React** – Biblioteca JavaScript para construção de interfaces de usuário.
-- **Vite** – Ferramenta de build rápida para projetos modernos.
-- **JavaScript (JSX)** – Sintaxe que combina JavaScript com HTML.
-- **Vercel** – Plataforma de hospedagem para aplicações front-end.
+## 🚀 Tecnologías Utilizadas
+
+- **React** – Biblioteca de JavaScript para construir interfaces de usuario.
+- **Vite** – Herramienta de compilación rápida para proyectos modernos.
+- **JavaScript (JSX)** – Sintaxis que combina JavaScript con HTML.
+- **Vercel** – Plataforma de alojamiento para aplicaciones frontend.
 
 ## 🌍 Funcionalidades
 
-- ✅ **Interface Trilíngue**: O site possui suporte para **português, inglês e espanhol**, com alternância de idioma feita de forma fluida pelo usuário.
-- 🧠 **Seção de Conhecimentos**: Apresenta de forma visual as principais tecnologias que domino e os cursos que concluí, com ícones e descrições breves.
-- 💼 **Sessão de Projetos**: Mostra os principais projetos que desenvolvi, com links diretos para repositórios.
-- 📇 **Sessão de Contato**: Links para GitHub, LinkedIn e e-mail.
-- ⚡ **Deploy instantâneo**: O site está hospedado na Vercel, com carregamento rápido e responsivo em qualquer dispositivo.
+- ✅ **Interfaz Trilingüe**: El sitio admite portugués, inglés y español, permitiendo al usuario cambiar de idioma de manera fluida.
+- 🧠 **Sección de Conocimientos**: Muestra visualmente las principales tecnologías que domino y los cursos que he completado, con íconos y breves descripciones.
+- 💼 **Sección de Proyectos**: Presenta los proyectos principales que he desarrollado, con enlaces directos a los repositorios.
+- 📇 **Sección de Contacto**: Incluye enlaces a GitHub, LinkedIn y correo electrónico.
+- ⚡ **Despliegue instantáneo**: El sitio está alojado en Vercel, con carga rápida y diseño responsivo para cualquier dispositivo.
 
-## 📁 Estrutura do Projeto
+## 📁 Estructura del Proyecto
 
-- `src/`: Contém os componentes React e arquivos relacionados à aplicação.
-- `assets/`: Inclui imagens, ícones e outros recursos visuais usados no projeto.
+```
+src/       → Componentes de React y archivos relacionados con la aplicación.  
+assets/    → Imágenes, íconos y otros recursos visuales utilizados en el proyecto.
+```
 
-## 🚀 Como Executar o Projeto
+## 🚀 Cómo Ejecutar el Proyecto
 
-Para rodar este projeto localmente, siga os passos abaixo:
+Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 ```bash
-# 1. Clone o repositório
+# 1. Clona el repositorio
 git clone https://github.com/FelipeRibeir0/portfolio.git
 
-# 2. Navegue até o diretório do projeto
+# 2. Entra en el directorio del proyecto
 cd portfolio
 
-# 3. Instale as dependências
+# 3. Instala las dependencias
 npm install
 
-# 4. Inicie o servidor de desenvolvimento
+# 4. Inicia el servidor de desarrollo
 npm run dev
 ```
-Após isso, acesse o projeto em seu navegador através do endereço exibido no terminal (geralmente http://localhost:5173).
 
-## 🌐 Deploy na Vercel
+Luego, abre tu navegador y accede al proyecto a través de la URL que se muestre en la terminal (por lo general http://localhost:5173).
 
-Este projeto está hospedado na Vercel, permitindo deploys automáticos a cada push na branch main. Acesse o site em:
-- [https://portfolio-feliperibeiro.vercel.app](https://portfolio-feliperibeiro.vercel.app)
-- ![Vercel](https://vercelbadge.vercel.app/api/FelipeRibeir0/portfolio)
+## 🌐 Despliegue en Vercel
 
-## 🤝 Contribuições
+Este proyecto está alojado en [Vercel](https://vercel.com), lo que permite despliegues automáticos con cada push en la rama `main`.
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+🔗 Accede al sitio en:  
+[https://portfolio-feliperibeiro.vercel.app](https://portfolio-feliperibeiro.vercel.app)
 
-## 📄 Licença
+## 🤝 Contribuciones
 
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
+¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras, no dudes en abrir un issue o enviar un pull request.
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo los términos de la **Licencia MIT**.
