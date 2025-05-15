@@ -31,7 +31,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/FelipeRibeir0/portfolio.git
+git clone https://github.com/nicopage88/portfolio.git
 
 # 2. Entra en el directorio del proyecto
 cd portfolio
@@ -45,12 +45,9 @@ npm run dev
 
 Luego, abre tu navegador y accede al proyecto a través de la URL que se muestre en la terminal (por lo general http://localhost:5173).
 
-## 🌐 Despliegue en Vercel
+## 🌐 Despliegue en Nicolabs
 
-Este proyecto está alojado en [Vercel](https://vercel.com), lo que permite despliegues automáticos con cada push en la rama `main`.
-
-🔗 Accede al sitio en:  
-[https://portfolio-feliperibeiro.vercel.app](https://portfolio-feliperibeiro.vercel.app)
+Este proyecto está alojado en [Vercel](https://nicolabs.cl), lo que permite despliegues automáticos con cada push en la rama `main`.
 
 ## 🤝 Contribuciones
 
